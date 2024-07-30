@@ -1,0 +1,25 @@
+1. Como você definiria uma boa estratégia de testes de software? 
+Uma boa estratégia de testes de software deve incluir planejamento detalhado, diversidade de testes, automação de testes, gerenciamento de riscos, uso de ferramentas adequadas e colaboração entre as partes interessadas.
+
+
+2. Cite pelo menos 3 técnicas de teste de software e explique o que são e como funcionam.
+As técnicas de teste de software incluem teste de caixa branca, teste de caixa preta e teste de regressão.
+
+3. Quais são os principais benefícios da automação de testes em relação aos testes manuais?
+A automação de testes traz benefícios como eficiência, reprodutibilidade, cobertura maior e economia de tempo e custo a longo prazo.
+
+4.  Como você lidaria com uma situação em que o prazo de entrega do software está se aproximando e ainda há vários bugs não corrigidos?
+Para lidar com prazos apertados e bugs não corrigidos, é importante priorizar os bugs, comunicar claramente com os stakeholders, compartilhar o trabalho entre a equipe e ter um plano de contingência.
+
+5. Como você avalia a eficácia dos testes de software e quais métricas você usaria para medir isso? 
+A avaliação da eficácia dos testes envolve medir a cobertura de código, a taxa de defeitos e detecção de defeitos, e o tempo de ciclo de testes.
+
+6. Por que é importante documentar os resultados dos testes de software e como você faria isso em um projeto de desenvolvimento de software?
+Documentar os resultados dos testes é essencial para rastrear o progresso, facilitar a comunicação e análise, e servir como referência para futuros testes.
+
+7. Explique o que é e para que serve a pirâmide de testes.
+A pirâmide de testes é um modelo que sugere a distribuição de diferentes tipos de testes, priorizando testes automatizados de menor custo e maior frequência.
+
+8 . Leia o texto abaixo e diga como Juliana pode resolver ou atenuar os problemas no qual ela se encontra. 
+Para resolver os problemas de Juliana, é recomendado delegar responsabilidades de QA para membros de equipe, aumentar a automatização de testes, usar ferramentas de gerenciamento e realizar reuniões regulares de sincronização.
+Priorizar tarefas de maior impacto é fundamental para mitigar os principais riscos primeiro.
